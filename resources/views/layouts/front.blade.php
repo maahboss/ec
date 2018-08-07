@@ -60,11 +60,12 @@
 
 
                 </li>
+                
             </ul>
         </div>
 
     </div>
-
+    
 </header>
 
 
@@ -74,7 +75,7 @@
         <div class="row pt120">
             <div class="col-lg-8 col-lg-offset-2">
                 <div class="heading align-center mb60">
-                    <h5 class="h1 heading-title"> e-Shopping  </h5>
+                    <h5 class="h1 heading-title"> e-Shopping Prototype  </h5>
                     <p class="heading-text">Design by MOhammed HAmada , Hp:0599021162
                     </p>
                 </div>

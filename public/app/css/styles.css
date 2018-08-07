@@ -1283,7 +1283,7 @@ h6, .h6 {
     box-shadow: 0px -4px 7px 0 rgba(0, 0, 0, 0.2) inset; }
 
 /*------------- #Button back-to-top --------------*/
-.back-to-top {
+.back-to-top { 
   position: absolute;
   z-index: 999;
   width: 50px;
