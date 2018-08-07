@@ -78,6 +78,10 @@
                     <h5 class="h1 heading-title"> e-Shopping Prototype  </h5>
                     <p class="heading-text">Design by MOhammed HAmada , Hp:0599021162
                     </p>
+                    
+                    <a href="{{route('products.index')}}">
+                                 <h5 style="color:red" class="books-title">Control Panel</h5>
+                            </a>
                 </div>
             </div>
         </div>
